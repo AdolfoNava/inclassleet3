@@ -1,0 +1,3 @@
+/home/cuser/Adolfo/inclassleet3/build/CMakeFiles/demo.dir
+/home/cuser/Adolfo/inclassleet3/build/CMakeFiles/demo-test.dir
+/home/cuser/Adolfo/inclassleet3/build/CMakeFiles/gtest.dir
